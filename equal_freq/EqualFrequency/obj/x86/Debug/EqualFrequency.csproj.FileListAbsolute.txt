@@ -1,0 +1,7 @@
+c:\users\zhoupeiyuan\documents\visual studio 2010\Projects\EqualFrequency\EqualFrequency\obj\x86\Debug\EqualFrequency.Form1.resources
+c:\users\zhoupeiyuan\documents\visual studio 2010\Projects\EqualFrequency\EqualFrequency\obj\x86\Debug\EqualFrequency.Properties.Resources.resources
+c:\users\zhoupeiyuan\documents\visual studio 2010\Projects\EqualFrequency\EqualFrequency\obj\x86\Debug\EqualFrequency.csproj.GenerateResource.Cache
+c:\users\zhoupeiyuan\documents\visual studio 2010\Projects\EqualFrequency\EqualFrequency\bin\Debug\EqualFrequency.exe
+c:\users\zhoupeiyuan\documents\visual studio 2010\Projects\EqualFrequency\EqualFrequency\bin\Debug\EqualFrequency.pdb
+c:\users\zhoupeiyuan\documents\visual studio 2010\Projects\EqualFrequency\EqualFrequency\obj\x86\Debug\EqualFrequency.exe
+c:\users\zhoupeiyuan\documents\visual studio 2010\Projects\EqualFrequency\EqualFrequency\obj\x86\Debug\EqualFrequency.pdb
