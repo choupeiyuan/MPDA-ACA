@@ -1,0 +1,11 @@
+Cluster,Mode,Significant_MR,Item,Sum(SMR),3.3032954861745956
+1,cap-surface,0.0,cap-surface
+2,gill-spacing,0.0,gill-spacing
+3,population,0.17771778872733876,population_habitat
+4,stalk-surface-below-ring,0.0,stalk-surface-below-ring
+5,cap-shape,0.0,cap-shape
+6,ring-type,1.5080229677570551,ring-type_spore-print-color_stalk-color-above-ring_stalk-color-below-ring_gill-color_stalk-surface-above-ring_bruises_stalk-shape
+7,odor,0.930093413301919,odor_classes_stalk-root_gill-size_cap-color
+8,ring-number,0.0,ring-number
+9,gill-attachment,0.6874613163882831,gill-attachment_veil-color
+10,veil-type,0.0,veil-type
